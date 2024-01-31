@@ -8,7 +8,7 @@
 
 ## Links
 
-Follow link https://github.com/brutchley9/regex-tutorial to access GitHub repository for this tutorial (including code).
+Follow link https://gist.github.com/brutchley9/3cbbc50b7b756718b68c8906a14b3754 to access GitHub Gist page for this tutorial (including code).
 
 
 ---
